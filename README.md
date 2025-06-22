@@ -5,4 +5,8 @@
   You can easily add a task using the button: ADD TASK\
   You can view the created tasks using the button: LIST\
   You can delete a task by typing the task number into the box and confirming with the button: DELETE\
-  Exit the application using the button: EXIT
+  Exit the application using the button: EXIT\
+
+   This application is part of my course **Programming in Java for Beginners**.\
+   Any feedback or suggestions for improvement are welcome.
+
