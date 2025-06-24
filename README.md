@@ -4,7 +4,7 @@
 
   Adding a task is easy – simply type "Add task" and then enter the new task.
   To view the list of created tasks, type "List".
-  To delete a task, type "Delete task", press Enter, then enter the number of the task you want to delete and press Enter again.
+  To remove a task, type Remove task", press Enter, then enter the number of the task you want to delete and press Enter again.
   To exit the application, type "Exit" and press Enter.
 
 
