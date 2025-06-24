@@ -1,4 +1,4 @@
-# MyTasks
+# TaskManager
 ## This console application allows you to plan tasks and sort them by importance.
 ## Whether it’s an important business meeting, a reminder to pick up clothes from the dry cleaner, or a birthday party, with this application you won’t forget anything.
 
